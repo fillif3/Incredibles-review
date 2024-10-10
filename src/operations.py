@@ -17,3 +17,6 @@ def division(a, b):
 
 def multiplication(a, b):
     return a * b 
+
+def test_division():
+    assert division(4,2) == 2
