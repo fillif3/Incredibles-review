@@ -13,3 +13,5 @@ def perform_operation(num1, num2, operation):
         raise ValueError("Invalid operation. Please choose 'add' or 'subtract'.")
 
     return result
+
+print('random operation')
