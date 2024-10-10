@@ -15,7 +15,7 @@ from operations import summation, subtraction
 #     return result
 
 #num1 - indicate the first number
-#numb - indicate the second nuber
+#num2 - indicate the second number
 #operation - select the operation 'add' or 'subtract'
 #results - result of the operation selected
 
